@@ -34,7 +34,7 @@ public class DbSelect {
 	}
 
 	public void query1() {
-
+		// query1
 		String url = "jdbc:postgresql://" + ip + ":" + port + "/" + sid;
 		String usr = user;
 		String pwd = password;
